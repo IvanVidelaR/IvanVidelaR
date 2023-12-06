@@ -1,3 +1,4 @@
+<img src="https://github.com/IvanVidelaR/IvanVidelaR/raw/main/Banner.png" alt="Hello. I'm Ivan. Thanks for reading.">
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=false&vCenter=false&width=550&height=70&duration=3000&color=F7BAA5&lines=Hello+there!+🙌🏻;+I'm+Iván+Videla+Ribodino!;" />
 </h1>
