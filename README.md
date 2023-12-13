@@ -7,7 +7,7 @@
 <div align="left">
   -🌱 I’m currently studying programming at the National Technology University. <br>
   -🍒 I´m learning React. <br>
-  -🔭 I’m currently working on My Portfolio. <br>
+  -🔭 Finished my portfolio. <br>
   -💬 Ask me about Python, C#. <br>
 </div>
 <h3 align="left">Languages and Tools:</h3>
@@ -20,10 +20,15 @@
 </p>
 <h3 align="left">Contact:</h3>
 <p align="left">
-  <a href="mailto:videlaivan10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:videlaivan10@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/ivanvidelar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
+  <a href="https://ivanvidelar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"/>
+  </a>  
 </p>
 
 
