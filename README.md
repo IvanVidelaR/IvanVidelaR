@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/ivanvidelar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://ivanvidelar.netlify.app/" target="_blank">
+  <a href="https://ivanvidelar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"/>
   </a>  
 </p>
